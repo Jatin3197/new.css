@@ -1,0 +1,25 @@
+/* In Arun is used a color and background color. */
+.Arun{
+        color: rgb(127, 18, 61);
+        background-color: rgb(90, 141, 141);
+     }
+     /* In Ravi is used color and font family */
+     .Ravi{
+      color: rgb(18, 168, 118);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     }
+     /* In Samir is used color and font size */
+     .Samir{
+      color: #00ff00;
+      font-size: medium;
+     }
+       /* In Allahabad is used color only and hsl property is used */
+      #Allahabad{
+       color:hsl(0, 100%, 50%)
+      }
+      
+
+     /* In allahabad and raj is used background color and font style */
+     #Allahabad .Raj{
+      background-color: darkred;
+      font-style: italic;
